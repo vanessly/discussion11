@@ -24,11 +24,6 @@ let pokemonList = ["Bulbasaur","Ivysaur","Venusaur","Charmander","Charmeleon","C
 // There is another event which fires for every character. This is what we want to use.
 
 let firstNameInput = document.getElementById('first_name');
-firstNameInput.addEventListener('input') {
-    if(firstNameInput.value === 'John') {
-        document.getElementById('last_name').value = 'Doe';
-    }
-});
 
 
 
